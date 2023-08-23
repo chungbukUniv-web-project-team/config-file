@@ -8,11 +8,6 @@ eureka:
       defaultZone: http://220.125.53.144:8761/eureka
     fetch-registry: 'true'
 spring:
-  datasource:
-    driverClassName: com.mysql.cj.jdbc.Driver
-    password: mysql
-    username: root
-    url: jdbc:mysql://localhost:3306/userserviceDB?characterEncoding=UTF-8
   application:
     name: user-service
   h2:
