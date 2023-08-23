@@ -25,4 +25,4 @@ security:
       secret-key: amFuZ2phbmdqYW5namFuZ2phbmdqYW5namFuZ2phbmc=
       expire-time: '300000'
 server:
-  port: '0'
+  port: 8080
