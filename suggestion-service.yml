@@ -6,3 +6,5 @@ spring:
     show-sql: true
   messages:
     basename: messages, errors
+server:
+  port: 8083
