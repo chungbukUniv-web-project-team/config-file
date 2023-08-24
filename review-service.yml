@@ -1,7 +1,7 @@
 spring:
-  main:
-    allow-circular-references: true
-    web-application-type: reactive
+  # main:
+  #   allow-circular-references: true
+  #   web-application-type: reactive
   application:
     name: review-service
   jpa:
